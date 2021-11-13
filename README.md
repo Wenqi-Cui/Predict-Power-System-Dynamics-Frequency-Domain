@@ -23,4 +23,4 @@ Here we show the transient dynamics of angle(left), frequency deviation(middle) 
 
 
 # Code References
-We thank https://github.com/zongyi-li/fourier_neural_operator for developping open-sorce code for Fourier Neural Operator
+We thank https://github.com/zongyi-li/fourier_neural_operator for developping open-sorce code for Fourier Neural Operator, and https://www.ecse.rpi.edu/~chowj/ for developping  open-sorce power system toolbox.
