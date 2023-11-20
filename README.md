@@ -1,6 +1,6 @@
 # Predicting Power System Dynamics and Transients: A Frequency Domain Approach
 This repository contains source code necessary to reproduce the results presented in the following paper:
-[Predicting Power System Dynamics and Transients: A Frequency Domain Approach](https://arxiv.org/abs/2111.01103)  
+[A Frequency Domain Approach to Predict Power System Transients](https://ieeexplore.ieee.org/abstract/document/10078020)  
 
 Authors: Wenqi Cui, Weiwei Yang and Baosen Zhang  
 
